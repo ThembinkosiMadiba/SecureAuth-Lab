@@ -2,7 +2,7 @@
 
 An educational cybersecurity laboratory for understanding brute-force attacks and authentication security.
 
-🌐 **Live Site:** [https://valentine-invintation.netlify.app/](https://smokeville.netlify.app/)
+🌐 **Live Site:** [https://valentine-invintation.netlify.app/](https://secure-auth-lab.netlify.app/)
 
 ## ⚠️ Educational Use Only
 
