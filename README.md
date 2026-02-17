@@ -2,6 +2,8 @@
 
 An educational cybersecurity laboratory for understanding brute-force attacks and authentication security.
 
+🌐 **Live Site:** [https://valentine-invintation.netlify.app/](https://smokeville.netlify.app/)
+
 ## ⚠️ Educational Use Only
 
 **This simulator is strictly for educational purposes.** It operates entirely within your browser and does not connect to any external systems. No real credentials are used or stored, and no actual systems are attacked.
