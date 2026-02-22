@@ -91,18 +91,6 @@ After using SecureAuth Lab, you'll understand:
 - Real-world attack timelines and patterns
 - Security best practices for authentication
 
-## 🌟 Perfect For
-
-- Cybersecurity students
-- Security awareness training
-- Portfolio projects
-- Educational demonstrations
-- Understanding authentication security
-
-## 📝 License
-
-This project is for educational purposes only. Use responsibly and ethically.
-
 ---
 
 Built with a focus on education, security awareness, and ethical practices.
