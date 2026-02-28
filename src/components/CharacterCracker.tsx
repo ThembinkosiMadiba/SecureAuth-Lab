@@ -1,7 +1,13 @@
 import { motion } from 'motion/react';
 import { Lock, Unlock } from 'lucide-react';
 
-
+interface CharacterCrackerProps {
+  password: string;
+  currentPosition: number;
+  currentChar: string;
+  crackedChars: string[];
+  isActive: boolean;
+}
 
 const CHARSET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+-=[]{}|;:,.<>?';
 
