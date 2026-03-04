@@ -2,11 +2,9 @@ import { useState } from 'react';
 import { ArrowLeft, Shield, Lock, Clock, AlertCircle } from 'lucide-react';
 import { DefenseSettings } from '../App';
 
-interface PasswordSetupProps {
-  onRunSimulation: (password: string, settings: DefenseSettings) => void;
-  onBack: () => void;
-  initialSettings: DefenseSettings;
-}
+
+
+
 
 export function PasswordSetup({ onRunSimulation, onBack, initialSettings }: PasswordSetupProps) {
   const [password, setPassword] = useState('');
