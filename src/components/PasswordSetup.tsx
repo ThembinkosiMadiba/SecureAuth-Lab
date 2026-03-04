@@ -8,7 +8,6 @@ interface PasswordSetupProps {
   initialSettings: DefenseSettings;
 }
 
-
 export function PasswordSetup({ onRunSimulation, onBack, initialSettings }: PasswordSetupProps) {
   const [password, setPassword] = useState('');
   const [settings, setSettings] = useState<DefenseSettings>(initialSettings);
