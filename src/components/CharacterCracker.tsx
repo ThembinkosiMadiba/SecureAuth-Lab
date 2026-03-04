@@ -9,7 +9,7 @@ interface CharacterCrackerProps {
   isActive: boolean;
 }
 
-const CHARSET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+-=[]{}|;:,.<>?';
+
 
 export function CharacterCracker({ 
   password, 
